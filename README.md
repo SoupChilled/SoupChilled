@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
 I'm an 11th grade student in Colombia. With personal projects that I come up with, I am expanding my knowledge of front-end and back-end development on my own. I have a passion for learning and for building productive and innovative things.
 - 🌱 I’m currently learning ...
