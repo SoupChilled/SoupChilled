@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi , I'm Dylan Vera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
@@ -8,8 +8,7 @@ I'm an 11th grade student in Colombia. With personal projects that I come up wit
 - 🌱 I’m currently learning ...
   - JavaScript
   - React
-- 👯 To continue learning, I would like to participate in open source projects..
-- ✔ Ask me about anything, I am happy to help<br>
+- 💡 To continue learning, I would like to participate in open source projects.
 - Outside of tech, I love 🎵 listening to music, 🎮 playing videogames, 🎬 Marvel, and 🍟 Choclitos.
 
 ## My Skills Include
@@ -30,10 +29,6 @@ I'm an 11th grade student in Colombia. With personal projects that I come up wit
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34">
-
-
-
-
 </span>
 
 ## Check out my Social Media
@@ -47,6 +42,6 @@ I'm an 11th grade student in Colombia. With personal projects that I come up wit
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/valentinawerle)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/valentinawerle)
+[![](https://github-readme-stats.vercel.app/api?username=soupchilled&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/soupchilled)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=soupchilled&theme=material-palenight)](https://github.com/soupchilled)
 </div>
