@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi , I'm Dylan Vera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Dylan Vera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
@@ -40,8 +40,9 @@ I'm an 11th grade student in Colombia. With personal projects that I come up wit
   <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white" alt="Tiktok">
 </a>
 
-<h2>Github stats:</h2> 
+<h2>Github stats:</h2>
 
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=soupchilled&show_icons=true&theme=dark&locale=en&layout=compact)](https://github.com/soupchilled)
 [![](https://github-readme-stats.vercel.app/api?username=soupchilled&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/soupchilled)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=soupchilled&theme=material-palenight)](https://github.com/soupchilled)
 </div>
