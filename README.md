@@ -5,7 +5,7 @@
 <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px">&nbsp;***About me***
 
 I'm an 11th grade student in Colombia. With personal projects that I come up with, I am expanding my knowledge of front-end and back-end development on my own. I have a passion for learning and for building productive and innovative things.
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning...
   - JavaScript
   - React
 - 💡 To continue learning, I would like to participate in open source projects.
