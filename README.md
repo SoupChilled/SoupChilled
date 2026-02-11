@@ -33,7 +33,7 @@ I'm an 11th grade student in Colombia. With personal projects that I come up wit
 
 ## Check out my Social Media
 
-<a href= "https://www.instagram.com/soupchilled/">
+<a href= "https://www.instagram.com/dy.vera_/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
 <a href="https://www.tiktok.com/@soupchilled" >
