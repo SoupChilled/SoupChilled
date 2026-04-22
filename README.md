@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Dylan Vera </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=250px alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width="30%" min-width="150px" alt="Unicorn" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### <img vertical-align="middle" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="30px"/>&nbsp; About Me
 
